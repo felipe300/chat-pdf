@@ -26,6 +26,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - [tailwindcss](https://tailwindcss.com/)
 - [shadcn ui](https://ui.shadcn.com/)
 - [clerk auth](https://clerk.com/)
+- [lucide react](https://lucide.dev/guide/packages/lucide-react)
 - [openai]()
 - [stripe]()
 - [vercel]()
