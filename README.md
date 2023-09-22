@@ -25,6 +25,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - [nextjs](https://nextjs.org/)
 - [tailwindcss](https://tailwindcss.com/)
 - [shadcn ui](https://ui.shadcn.com/)
+- [clerk auth](https://clerk.com/)
 - [openai]()
 - [stripe]()
 - [vercel]()
