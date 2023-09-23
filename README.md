@@ -27,6 +27,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - [shadcn ui](https://ui.shadcn.com/)
 - [clerk auth](https://clerk.com/)
 - [lucide react](https://lucide.dev/guide/packages/lucide-react)
+- [neon db](https://neon.tech/)
+- [drizzle orm](https://orm.drizzle.team/)
 - [openai]()
 - [stripe]()
 - [vercel]()
